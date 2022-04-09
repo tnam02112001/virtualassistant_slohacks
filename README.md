@@ -1,6 +1,6 @@
 # SLO Hacks 2022 - Virtual Assistant Workshop
-Nam Nguyen, Katy Tran
 
+---
 # Development Environment Set Up
 
 ## Install Python Thrid-Party Packages
@@ -32,8 +32,8 @@ After installing xcode, you may want to restart your computer to fully complete 
 #### 2 - Installing portaudio
 This package can be installed by using 
 ```
-+ brew remove portaudio
-+ brew install portaudio
+brew remove portaudio
+brew install portaudio
 ```
 
 #### 2 - Installing PyAudio with pipwin

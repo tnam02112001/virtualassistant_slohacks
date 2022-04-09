@@ -20,22 +20,22 @@ PyAudio is a cross-platform audio input/output stream library. We will use this 
 #### 1 - Install pipwin
 This package can be installed by using `pip install pipwin`
 
-#### 2 - Install PyAudio with pipwin
+#### 2 - Install PyAudio
 This package can be installed by using `pipwin install pyaudio`
 
 ### Mac OS
-#### 1 - Installing xcode
+#### 1 - Install xcode
 xcode can be installed from Apple App Store. If you have already done so, please skip this step.
 After installing xcode, you may want to restart your computer to fully complete the installation.
 
-#### 2 - Installing portaudio
+#### 2 - Install portaudio
 This package can be installed by using 
 ```
 brew remove portaudio
 brew install portaudio
 ```
 
-#### 2 - Installing PyAudio with pipwin
+#### 2 - Installing PyAudio 
 This package can be installed by using `pip install pyaudio`
 
 

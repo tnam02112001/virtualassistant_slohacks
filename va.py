@@ -16,26 +16,6 @@ YOUTUBE_LINK  = "https://www.youtube.com/watch?v=8pm_KoguqPM" # For opening Yout
 SLO_CORD = ["35.2913508", "-120.6618469"] # [lat, lon] of SLO, for Weather API
 WEATHER_API_KEY = None # Weather API Key
 
-
-def get_weather():
-    pass
-   
-
-
-def speak(audio):  # function for assistant to speak
-    pass
-    
-
-def welcome():  # function to wish the user according to the daytime
-    pass
-
-
-
-def takecommand():  # function to take an audio input from the user
    
 if __name__ == "__main__":  # execution control
-    welcome()
-
-    while True:
-       pass
-
+    pass

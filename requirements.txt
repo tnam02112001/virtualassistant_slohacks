@@ -1,0 +1,4 @@
+pyttsx3
+wikipedia
+GoogleNews
+SpeechRecognition==3.1.3

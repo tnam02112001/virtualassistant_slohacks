@@ -1,6 +1,5 @@
 # SLO Hacks 2022 - Virtual Assistant Workshop
 
----
 # Development Environment Set Up
 
 ## Install Python Thrid-Party Packages
